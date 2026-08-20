@@ -13,4 +13,4 @@
 - [판소리제언] 적벽가 해외 공연 때 자막이 웃음의 타이밍을 못 따라감 — 판소리 해외 무대의 자막/해설 설계에 관한 제언 (논문 준비 중 관찰)
 
 ## 새 시드
-- 
+- [해외진출/제도] 한국문학번역원이 창립 30주년을 맞아 8월 28~29일 서울에서 첫 "세계한국문학번역가대회"(World Congress for Korean Literary Translators)를 연다. 스웨덴어 번역가 안데쉬 칼손(SOAS)의 기조강연, AI가 번역업계에 미치는 영향을 다루는 패널, 번역아카데미 동문 홈커밍데이(브라더 안토니 기조강연)까지 포함된 구성이다 — 30년간 개별 번역가 양성 중심이었던 기관이 이제 전세계 동문·현역 번역가를 하나의 네트워크/커뮤니티로 조직하려는 전환점으로 읽을 수 있다. "양성"에서 "커뮤니티 운영"으로 넘어가는 기관의 다음 단계는 무엇을 요구하는가, AI 패널에서 어떤 입장이 나올지도 지켜볼 지점 (2026-08-19, [The Korea Times](https://www.koreatimes.co.kr/lifestyle/people-events/20260819/koreas-literature-translation-institute-to-host-global-translators-conference), 발견 2026-08-20)
